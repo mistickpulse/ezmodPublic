@@ -1,0 +1,11 @@
+{
+  "parent": "item/generated",
+  "default": {
+    "textures": {
+      "all": "ezmode:items/cheese"
+    }
+  },
+  "textures": {
+    "layer0":"ezmode:items/cheese"
+  }
+}

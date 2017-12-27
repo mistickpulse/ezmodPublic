@@ -1,0 +1,12 @@
+Il se craft avec un diamant au millieu et 8 Amethyste sur le reste de la table de craft
+
+D = Diamond
+A = Amethyste
+
+A | A | A
+---------
+A | D | A
+---------
+A | A | A
+
+Il se casse en 10 seconde avec une pioche en diamant non enchantée
